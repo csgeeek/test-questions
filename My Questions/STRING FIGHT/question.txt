@@ -1,0 +1,33 @@
+The popular string fights are back again. This time A and B are fighting in the ring. Each person has his own powerful string with which they fight. A knows that he is weaker than B. A does not want to lose the game at any cost. So he asks your help to support him in this fight. 
+You are a magician. You have to help your friend by casting a spell on B's string(don't get caught).
+
+Game rules:-
+The string which has more no. of vowels is considered powerful.
+The person who has the most powerful string wins the game.
+
+Your job is to perform dark magic on B's string and reduce the no. of vowels.
+You have to remove the least no. of vowels from the B's string so that A wins the game.
+Make sure that B does not win the game at any cost.
+
+Print the final string of B. 
+
+Note:- If both the strings are equally powerful TIE is declared. 
+HURRY UP!! THE FIGHT IS ABOUT TO BEGIN
+
+Input Format:-
+There is only one line of input it contains to space separated strings A B.
+
+Output Format:-
+If the final strings contain same no. of vowels even after performing magic print "TIE"(without quotes).
+else
+Print the final string of B.
+
+Constraints:-
+1 <= |A| <= 20
+1 <= |B| <= 20
+
+Sample Input:-
+aesdfgh abcdefgh
+
+Sample Output:-
+bcdefgh

@@ -1,0 +1,26 @@
+Ninja loves playing Valorant. He started playing a match and you are in his team. The opponent team turned on the spike(a Bomb). You and your team-mates should de-activate the spike. Here, comes the twist, in order to de-activate the spike you need to decipher a code.
+As Ninja is always busy playing video games, he is bad at solving logical problems. He asks you to decipher it. 
+HURRY UP!! 
+Defuse the spike, else you will lose the match.
+
+Input format:-
+The first line of input contains no. of test case i.e T.
+The first and only line of each test case contains a string S.
+
+Output format:-
+Print the output string in a new line.
+
+Constraints:-
+1 <= T <= 20
+1 <= |S| <= 20
+2 <= S[i] <= 9 && a <= S[i] <= z
+
+Sample Input:-
+2
+a35zy9
+x2hqu5qx27
+
+Sample Output:-
+c13ba7
+z0jsw3sz05
+

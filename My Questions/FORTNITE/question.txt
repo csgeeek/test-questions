@@ -1,0 +1,37 @@
+Your friend has just started playing Fortnite. He is not familiar with building mechanics of this game. You have to help him. You will be given no. of materials. You have to print the total no. of build pieces which can be constructed using those materials.
+
+There are 4 types of build pieces in fortnite:-
+1.Walls - 20
+2.Cones - 15
+3.Ramps - 10
+4.Floors - 5
+
+
+You will be given N no. of materials you have to print the no. of Walls, Ramps, Floors, Cones can he build using N materials.
+Please help your newbie friend.
+
+Note:- See the explanation to have a better understanding.
+Input Format:-
+The first Line of input contains no. of test cases - T.
+The first and only line of each test case contains a single integer N.
+
+Output Format:-
+Output contains T integers each printed in new line.
+
+Constraints:-
+1 <= T <= 500
+1 <= N <= 3000
+
+Explanation:-
+Let's suppose N = 100
+You can construct 5 Walls or 6 Cones or 10 Ramps or 20 Floors 
+
+Sample Input:-
+1
+100
+
+Sample Output:-
+5
+6
+10
+20

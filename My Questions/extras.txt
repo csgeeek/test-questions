@@ -1,0 +1,3 @@
+1. Count no. of swaps in Quick Sort.(Pivot will be provided).
+2. Find factorials of big numbers in C/C++.
+3. Count no. of elements in an array which sum up to zero in a very efficient way.
