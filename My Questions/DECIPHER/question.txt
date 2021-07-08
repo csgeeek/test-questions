@@ -1,4 +1,4 @@
-Ninja loves playing Valorant. He started playing a match and you are in his team. The opponent team turned on the spike(a Bomb). You and your team-mates should de-activate the spike. Here, comes the twist, in order to de-activate the spike you need to decipher a code.
+Ninja loves playing Valorant. He started playing a match and you are in his team. The opponent team turned on the spike(a Bomb). You and your team-mates should defuse the spike. Here, comes the twist, in order to de-activate the spike you need to decipher a code.
 As Ninja is always busy playing video games, he is bad at solving logical problems. He asks you to decipher it. 
 HURRY UP!! 
 Defuse the spike, else you will lose the match.
